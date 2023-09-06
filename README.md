@@ -14,8 +14,7 @@ This package should only be installed on your development systems!
 Full documentation can be seen at [https://docs.trmregistry.com](https://docs.trmregistry.com).
 
 <!-- START _sidebar.md -->
-- [Setup Server](setup.md)
-- [RFC Functions](rfcFunctions.md)
-- [prova edit](ciao.md)
+- [Setup Server](docs/setup.md)
+- [RFC Functions](docs/rfcFunctions.md)
 
 <!-- END _sidebar.md -->

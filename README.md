@@ -16,4 +16,6 @@ Full documentation can be seen at [https://docs.trmregistry.com](https://docs.tr
 <!-- START _sidebar.md -->
 - [Setup Server](setup.md)
 - [RFC Functions](rfcFunctions.md)
+- [prova edit](ciao.md)
+
 <!-- END _sidebar.md -->

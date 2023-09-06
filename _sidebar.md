@@ -1,3 +1,2 @@
-- [Setup Server](setup.md)
-- [RFC Functions](rfcFunctions.md)
-- [prova edit](ciao.md)
+- [Setup Server](docs/setup.md)
+- [RFC Functions](docs/rfcFunctions.md)

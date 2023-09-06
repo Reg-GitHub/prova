@@ -1,2 +1,3 @@
 - [Setup Server](docs/setup.md)
 - [RFC Functions](docs/rfcFunctions.md)
+- [aggiunto](ciao.md)

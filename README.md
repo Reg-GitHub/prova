@@ -16,5 +16,7 @@ Full documentation can be seen at [https://docs.trmregistry.com](https://docs.tr
 <!-- START _sidebar.md -->
 - [Setup Server](docs/setup.md)
 - [RFC Functions](docs/rfcFunctions.md)
+- [aggiunto](ciao.md)
+- [aggiunto2](ciao2.md)
 
 <!-- END _sidebar.md -->

@@ -1,0 +1,2 @@
+- [Setup Server](setup.md)
+- [RFC Functions](rfcFunctions.md)
